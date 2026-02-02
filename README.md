@@ -1,2 +1,4 @@
 # Solidity-Project-446
-Solidity-Project-446-BRACU-CSE
+
+
+A decentralized blockchain application project.
